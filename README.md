@@ -79,7 +79,8 @@ You need a free GitHub account and a free Streamlit account.
    (and the peer-similarity corpus `business_tfidf.joblib`) from it.
 2. Go to **https://share.streamlit.io**, sign in with GitHub, click **Create app**, pick your repo,
    branch `main`, main file `app.py`.
-3. Under **Advanced settings**, choose **Python 3.12** (the pinned packages and saved models are built on it), and
+3. Under **Advanced settings**, any Python from **3.12 to 3.14** works (the pinned packages are checked to install
+   on all three on Linux), and
    under **Secrets** paste (a dedicated project email is fine; visitors never see it):
    ```toml
    SEC_USER_AGENT = "FilingSignal research project.email@example.org"
