@@ -1,0 +1,14 @@
+# Exact versions tested locally (Python 3.12). Pinned so the hosted app matches, and because the
+# saved models / peer corpus (joblib) must be loaded with the same scikit-learn version that built them.
+streamlit==1.67.0
+pandas==2.3.3
+numpy==2.5.5
+requests==2.34.2
+beautifulsoup4==4.15.0
+lxml==6.1.3
+scikit-learn==1.9.1
+plotly==6.9.0
+yfinance==1.8.0
+python-dotenv==1.2.4
+pyarrow==21.0.0
+joblib==1.6.0

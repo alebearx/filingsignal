@@ -1,0 +1,151 @@
+ticker,cik,price_ticker,sector_note
+AAPL,,,Technology
+MSFT,,,Technology
+NVDA,,,Technology
+ORCL,,,Technology
+ADBE,,,Technology
+CRM,,,Technology
+INTC,,,Technology (stressed 2024-25)
+CSCO,,,Technology
+IBM,,,Technology
+AMD,,,Technology
+QCOM,,,Technology
+TXN,,,Technology
+HPQ,,,Technology
+XRX,,,Technology (stressed)
+WDC,,,Technology
+GOOGL,,,Communication
+META,,,Communication
+VZ,,,Communication
+T,,,Communication
+CMCSA,,,Communication
+DIS,,,Communication
+NFLX,,,Communication
+LUMN,,,Communication (stressed)
+CHTR,,,Communication
+SIRI,,,Communication
+SATS,,,Communication (stressed)
+PARA,,,Communication
+AMZN,,,Consumer discretionary
+HD,,,Consumer discretionary
+LOW,,,Consumer discretionary
+TGT,,,Consumer discretionary
+M,,,Consumer discretionary
+KSS,,,Consumer discretionary (stressed)
+NKE,,,Consumer discretionary
+SBUX,,,Consumer discretionary
+MCD,,,Consumer discretionary
+F,,,Consumer discretionary
+GM,,,Consumer discretionary
+TSLA,,,Consumer discretionary
+BBY,,,Consumer discretionary
+AAP,,,Consumer discretionary (stressed)
+W,,,Consumer discretionary (stressed)
+PTON,,,Consumer discretionary (stressed)
+CVNA,,,Consumer discretionary (stressed then recovered)
+VFC,,,Consumer discretionary (stressed)
+NWL,,,Consumer discretionary (stressed)
+GAP,,,Consumer discretionary
+RIVN,,,Consumer discretionary (cash burn)
+LCID,,,Consumer discretionary (cash burn)
+AMC,,,Consumer discretionary (stressed)
+CCL,,,Consumer discretionary (stressed 2020-22)
+NCLH,,,Consumer discretionary (stressed 2020-22)
+EXPE,,,Consumer discretionary
+MAR,,,Consumer discretionary
+HLT,,,Consumer discretionary
+PG,,,Consumer staples
+KO,,,Consumer staples
+PEP,,,Consumer staples
+WMT,,,Consumer staples
+COST,,,Consumer staples
+KR,,,Consumer staples
+CL,,,Consumer staples
+GIS,,,Consumer staples
+KHC,,,Consumer staples
+CLX,,,Consumer staples
+BYND,,,Consumer staples (stressed)
+HSY,,,Consumer staples
+JNJ,,,Health care
+PFE,,,Health care
+MRK,,,Health care
+ABBV,,,Health care
+UNH,,,Health care
+CVS,,,Health care
+BMY,,,Health care
+AMGN,,,Health care
+GILD,,,Health care
+MDT,,,Health care
+CAH,,,Health care
+TEVA,,,Health care (stressed)
+JPM,,,Financials
+BAC,,,Financials
+C,,,Financials
+WFC,,,Financials
+GS,,,Financials
+MS,,,Financials
+SCHW,,,Financials
+AIG,,,Financials
+ALLY,,,Financials
+FLG,,,Financials (stressed 2024)
+XOM,,,Energy
+CVX,,,Energy
+COP,,,Energy
+OXY,,,Energy
+SLB,,,Energy
+HAL,,,Energy
+DVN,,,Energy
+EXE,,,Energy (Chesapeake; bankruptcy 2020)
+APA,,,Energy
+BA,,,Industrials (stressed)
+CAT,,,Industrials
+DE,,,Industrials
+GE,,,Industrials
+HON,,,Industrials
+UPS,,,Industrials
+FDX,,,Industrials
+MMM,,,Industrials
+LMT,,,Industrials
+UNP,,,Industrials
+JBLU,,,Industrials (stressed)
+AAL,,,Industrials (stressed)
+HTZ,,,Industrials (bankruptcy 2020)
+DAL,,,Industrials
+UAL,,,Industrials
+DOW,,,Materials
+DD,,,Materials
+NUE,,,Materials
+FCX,,,Materials
+LYB,,,Materials
+CLF,,,Materials
+IP,,,Materials
+NEE,,,Utilities
+DUK,,,Utilities
+SO,,,Utilities
+PCG,,,Utilities (bankruptcy 2019)
+EIX,,,Utilities
+HE,,,Utilities (stressed 2023-24)
+AMT,,,Real estate
+SPG,,,Real estate
+O,,,Real estate
+PLD,,,Real estate
+VNO,,,Real estate
+PLUG,,,Industrials (cash burn)
+WOLF,,,Technology (bankruptcy 2025)
+BBBY,886158,-,Bed Bath & Beyond (bankrupt 2023)
+RAD,84129,-,Rite Aid (bankrupt 2023)
+REV,887921,-,Revlon (bankrupt 2022)
+TUP,1008654,-,Tupperware (bankrupt 2024)
+BIG,768835,-,Big Lots (bankrupt 2024)
+WE,1813756,-,WeWork (bankrupt 2023)
+SIVB,719739,-,SVB Financial (failed 2023)
+SI,1312109,-,Silvergate (failed 2023)
+SAVE,1498710,-,Spirit Airlines (bankrupt 2024/2025)
+NKLA,1731289,-,Nikola (bankrupt 2025)
+ENDP,1593034,-,Endo International (bankrupt 2022)
+YELL,716006,-,Yellow Corp (bankrupt 2023)
+PRTY,1592058,-,Party City (bankrupt 2023/2024)
+EXPR,1483510,-,Express (bankrupt 2024)
+JOAN,1834585,-,Joann (bankrupt 2024)
+DO,949039,-,Diamond Offshore (bankrupt 2020)
+MNK,1567892,-,Mallinckrodt (bankrupt 2020/2023)
